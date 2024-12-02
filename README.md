@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @DjankoWE
 - 👀 I’m interested in the IT sector mostly programming.
 - 🌱 I’m currently learning C# fundamentals in SoftUni.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects in the future.
 - 📫 How to reach me: djankowe@abv.bg
                       https://www.instagram.com/_djanykaranachew_/
 - 😄 Pronouns: Djani, Djanko
-- ⚡ Fun fact: I'm really interested in Sports.
+- ⚡ Fun fact: I'm really interested in all kind of Sports.
 
 <!---
 DjankoWE/DjankoWE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
